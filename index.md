@@ -1,4 +1,4 @@
-## Our new journal club format: Read & Meet (the author)
+## Our new Journal Club format: Read & Meet (the Author)
 
 Corona has fundamentally changed the way computational researchers work: We have learned that we can concentrate at small desks at home. That virtual meetings can be efficient. That we have to spend less time on trains and planes during travels. And: We have developed a new Journal Club format: *Read & Meet (the Author)*.
 
@@ -8,7 +8,4 @@ We noticed that the presence of the author changed the character of our journal 
 
 So far, we had 18 Read & Meet sessions. 14 authors responded to our invitation email where we explained our format, eleven of them joined our virtual meeting, answering questions and participating in the discussion.
 
-The new format has turned out to be key to get to know our colleagues’ work, approach and personality, and to expand our scientific network. For authors, it provides a platform for presenting published results and receiving detailed feedback from genuinely interested peers. Some first authors were extremely grateful for the invitation: “This is the first time this has happened to me. It's great to see that someone is so deeply interested in my work".
-
-The pandemic has shown us that there are many ways to work together, and even  more efficiently than before. We should continue developing innovative formats, try them out and share them with others. 
-
+The new format has turned out to be key to get to know our colleagues’ work, approach and personality, and to expand our scientific network. For authors, it provides a platform for presenting published results and receiving detailed feedback from genuinely interested peers. One of the first authors joining put it that way: "Thank you for the invitation! It's great to see that someone is so deeply interested in my work".
