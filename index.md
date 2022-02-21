@@ -1,5 +1,4 @@
-## Our new Journal Club format: 
-## Read & Meet (the Author)
+## Our new Journal Club format:\nRead & Meet (the Author)
 
 Corona has fundamentally changed the way computational researchers work: We have learned that we can concentrate at small desks at home. That virtual meetings can be efficient. That we have to spend less time on trains and planes during travels. And: We have developed a new Journal Club format: *Read & Meet (the Author)*.
 
